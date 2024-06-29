@@ -1,3 +1,5 @@
 #this is main file
 
-#this is feature2 bRANCH CHANGE 
+#adding feature 1
+#adding feature 2 on github directly
+#adding 3rd feature
